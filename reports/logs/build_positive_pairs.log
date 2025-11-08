@@ -1,0 +1,8 @@
+2025-11-08 21:37:09 - INFO - 总记录数: 7000
+2025-11-08 21:37:09 - INFO - 成功构建正样本数: 6997
+2025-11-08 21:37:09 - INFO - 无有效 query/answer/context 跳过: 3
+2025-11-08 21:37:09 - INFO - 找不到 doc_id 或无 chunk 跳过: 0
+2025-11-08 21:37:09 - INFO - 完整 answer 精确命中数: 1801
+2025-11-08 21:37:09 - INFO - 宽松匹配命中数: 5022
+2025-11-08 21:37:09 - INFO - 回退首 chunk 数: 174
+2025-11-08 21:37:09 - INFO - 输出文件: /Users/yanjiaxin/Documents/WORK/mystudy/project/harvest_fund/pairs/positive_pairs.jsonl

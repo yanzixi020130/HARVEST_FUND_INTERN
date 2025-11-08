@@ -1,0 +1,30 @@
+# macOS 系统文件
+.DS_Store
+
+# VSCode 配置文件
+.vscode/
+*.code-workspace
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 环境与依赖
+env/
+venv/
+.venv/
+*.env
+
+# 日志与临时文件
+*.log
+logs/
+reports/logs/
+
+# 数据文件（如果你不想上传中间数据，可选）
+data_raw/
+data_processed/
+
+# 输出目录
+outputs/
