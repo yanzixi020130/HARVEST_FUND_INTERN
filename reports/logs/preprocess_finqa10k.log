@@ -1,0 +1,8 @@
+2025-11-08 21:01:50 - INFO - Original records: 7000
+2025-11-08 21:01:50 - INFO - Cleaned records: 6701
+2025-11-08 21:01:50 - INFO - Discarded records: 299
+2025-11-08 21:01:50 - INFO - Discard reasons: {'question_too_short_or_empty': np.int64(2), 'answer_too_short_or_empty': np.int64(247), 'context_too_short_or_empty': np.int64(53), 'duplicate_qac': 6}
+2025-11-08 21:01:50 - INFO - Generated chunks: 7105
+2025-11-08 21:01:50 - INFO - Average chunks per doc: 1.06
+2025-11-08 21:01:50 - INFO - Average chunk length: 209.24 characters
+2025-11-08 21:01:50 - INFO - Output written to: /Users/yanjiaxin/Documents/WORK/mystudy/project/harvest_fund/data_processed/chunks.jsonl
