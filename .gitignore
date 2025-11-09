@@ -27,4 +27,5 @@ data_raw/
 data_processed/
 
 # 输出目录
-outputs/
+outputs/models/baseline/bi_encoder/model.safetensors
+models/baseline/bi_encoder/model.safetensors

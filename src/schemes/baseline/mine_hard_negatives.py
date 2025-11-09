@@ -7,7 +7,7 @@ import argparse
 import json
 import logging
 import os
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 import faiss
 import numpy as np
@@ -16,6 +16,19 @@ from tqdm import tqdm
 
 
 LOGGER = logging.getLogger(__name__)
+
+
+def setup_logging(log_file: Optional[str]) -> None:
+    """Configure logging to console and optional file."""
+    handlers: List[logging.Handler] = [logging.StreamHandler()]
+    if log_file:
+        os.makedirs(os.path.dirname(log_file) or ".", exist_ok=True)
+        handlers.append(logging.FileHandler(log_file, encoding="utf-8"))
+    logging.basicConfig(
+        level=logging.INFO,
+        format="[%(asctime)s] %(levelname)s - %(message)s",
+        handlers=handlers,
+    )
 
 
 def load_chunks(path: str) -> Tuple[List[str], List[str]]:
@@ -121,6 +134,7 @@ def mine_hard_candidates(
     index = build_faiss_index(chunk_embs)
     LOGGER.info("FAISS index built with dimension %d", chunk_embs.shape[1])
 
+    LOGGER.info("Loading positive pairs from %s", pairs_path)
     pairs = load_positive_pairs(pairs_path)
     LOGGER.info("Loaded %d positive pairs from %s", len(pairs), pairs_path)
 
@@ -166,7 +180,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--pairs_path",
         type=str,
-        default="pairs/positive_pairs.jsonl",
+        default="pairs/train_positive_pairs.jsonl",
         help="Path to positive pairs JSONL file.",
     )
     parser.add_argument(
@@ -178,8 +192,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--model_name",
         type=str,
-        default="BAAI/bge-base-zh-v1.5",
-        help="SentenceTransformer model name.",
+        default="BAAI/bge-base-en-v1.5",
+        help="SentenceTransformer model name for English text.",
     )
     parser.add_argument(
         "--top_k",
@@ -198,14 +212,17 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Whether to run the encoder on GPU (cuda).",
     )
+    parser.add_argument(
+        "--log_file",
+        type=str,
+        default="logs/mine_hard_negatives.log",
+        help="Optional path to write log output.",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
-    logging.basicConfig(
-        level=logging.INFO,
-        format="[%(asctime)s] %(levelname)s - %(message)s",
-    )
+    setup_logging(args.log_file)
     args = parse_args()
     mine_hard_candidates(
         chunks_path=args.chunks_path,

@@ -1,0 +1,701 @@
+{"query_id": "FQA_580", "query": "How does the company classify its short-term investments?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_120", "query": "What has historically caused Apple to experience higher net sales in its first quarter compared to other quarters?", "positive_chunk_ids": ["AAPL_2023_10K_chunk_0"]}
+{"query_id": "FQA_1207", "query": "What proportion of Starbucks' partners in U.S. company-operated stores are represented by unions?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3348", "query": "What were the operational results for Mexico in terms of operating income from 2021 to 2023?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_6453", "query": "What information is included in the SEC’s website regarding issuers that file electronically?", "positive_chunk_ids": ["INTU_2023_10K_chunk_0"]}
+{"query_id": "FQA_5045", "query": "How does the company plan to fund its substantial cash requirements?", "positive_chunk_ids": ["F_2023_10K_chunk_0"]}
+{"query_id": "FQA_1221", "query": "In which part and item of a 10-K filing is detailed information regarding certain legal proceedings included?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5069", "query": "What was Ford Motor Company's net income attributable for the year ending December 31, 2023?", "positive_chunk_ids": ["F_2023_10K_chunk_0"]}
+{"query_id": "FQA_4337", "query": "How many new stores did the Dollar Tree segment open in the fiscal year ending January 28, 2023?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_1450", "query": "What total amounts were committed under operating leases as of December 31, 2023, and how are these obligations distributed over different time periods?", "positive_chunk_ids": ["PLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_5345", "query": "What are the expected financial results for General Motors for the year ending December 31, 2024?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_2159", "query": "What total number of theatre screens did AMC Entertainment Holdings, Inc. operate at the end of the most recent year?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_6739", "query": "What pages in Item 8 contain the Consolidated Financial Statements?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3437", "query": "What was the inception date for the company's adoption of ASU 2016-02, Leases (Topic 842)?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_2008", "query": "How many pieces of software discs and consumer electronic devices did GameStop refurbish in 2022?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_3485", "query": "How much income taxes were paid in the most recent period mentioned?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_4163", "query": "How much did the company invest in purchasing forward caps to mitigate interest rate risks through 2026?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_1362", "query": "What primarily constitutes the corporate loss before interest and taxes?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_2326", "query": "What changes does the Inflation Reduction Act introduce to the Medicare Part D Coverage Gap Discount Program?", "positive_chunk_ids": ["LLY_2023_10K_chunk_0"]}
+{"query_id": "FQA_4103", "query": "How many physicians are part of the domestic Office of the Chief Medical Officer at DaVita as of December 31, 2023?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_4784", "query": "What approaches does the company use to analyze goodwill for potential impairment in the quantitative impairment test?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_6420", "query": "What services does Credit Karma offer to its members?", "positive_chunk_ids": ["INTU_2023_10K_chunk_0"]}
+{"query_id": "FQA_794", "query": "What was the fair value of U.S. government and agency securities as of June 30, 2022?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_410", "query": "Are there any legal matters under Item 3 that need to be disclosed for this period?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_3536", "query": "How did the Energy & Transportation segment's sales and profit change in 2023?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_4791", "query": "What events potentially trigger benefits under Mark W. Begor's change in control agreement and the CIC Plan?", "positive_chunk_ids": ["EFX_2023_10K_chunk_1"]}
+{"query_id": "FQA_3682", "query": "Which inputs are categorized as Level 3 in the fair value hierarchy?", "positive_chunk_ids": ["SCHW_2023_10K_chunk_0"]}
+{"query_id": "FQA_5590", "query": "What were the key reasons mentioned for the increased price transparency in the valuation of certain financial instruments?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_806", "query": "How did Berkshire respond to the U.K. leaving the EU in relation to its insurance operations?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_3108", "query": "What does the Federal Reserve require from major U.S. BHCs annually concerning capital planning?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_1928", "query": "How do government regulations impact the issuance and acquisition of Visa cards in certain jurisdictions?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_4546", "query": "What led to the increase in general and administrative expenses in fiscal year 2023?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_260", "query": "What methodology does the company use to recognize automotive sales revenue?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_4529", "query": "What actions are included in the company's 2023 Restructuring Plan?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_6633", "query": "What age group is EDURANT (rilpivirine) meant for and what does it treat?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_5587", "query": "What are the valuation models commonly used for different types of derivatives, as mentioned in the example?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_5928", "query": "How much energy was consumed per square meter at Hilton's properties in 2023?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_3310", "query": "How many broadband and internet services does the company provide to customer locations as of the end of 2023?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_4555", "query": "What was the total change in net cash provided by operating activities between fiscal years 2022 and 2023?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_6077", "query": "What are the principal amounts for short-term and long-term debts to be paid as of October 31, 2023?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_3733", "query": "How are delivery sales categorized in financial statements?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_6513", "query": "What recognition did Bill Meaney receive from Comparably in 2023?", "positive_chunk_ids": ["IRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_1295", "query": "What was the stored value of cards and loyalty program balances at the end of fiscal year 2022?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1571", "query": "What are the principal repayments of finance leases for the year 2022?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_6412", "query": "What is the primary function of the Small Business & Self-Employed segment as described?", "positive_chunk_ids": ["INTU_2023_10K_chunk_0"]}
+{"query_id": "FQA_5087", "query": "Where do the Financial Statements and Supplementary Data start in the report?", "positive_chunk_ids": ["F_2023_10K_chunk_0"]}
+{"query_id": "FQA_2714", "query": "What are the benefits of registering trademarks for the company's business?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_5881", "query": "What were the total unconditional purchase obligations of the company as of October 31, 2023?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_4353", "query": "What factors influenced the decrease in gross profit margin for the Family Dollar segment in 2022?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_375", "query": "What does the term 'constant dollar changes' in finance signify as explained in the text?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_3879", "query": "How much did the net investment income increase from 2022 to 2023?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_6792", "query": "When was the report on the Consolidated Financial Statements in Item 8 dated?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_5611", "query": "What methods does the company use to advertise its products?", "positive_chunk_ids": ["HAS_2023_10K_chunk_0"]}
+{"query_id": "FQA_17", "query": "What kind of applications now support RTX technology?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3066", "query": "What is the primary content presented in Item 8 of a financial document?", "positive_chunk_ids": ["CVX_2023_10K_chunk_0"]}
+{"query_id": "FQA_2986", "query": "What amount did the Company record in Equity income in investee for the years 2023, 2022, and 2021?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_2900", "query": "What does the forward-looking terminology in financial documents imply?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1100", "query": "What is the definition of a 'Member' at Peloton?", "positive_chunk_ids": ["PTON_2023_10K_chunk_0"]}
+{"query_id": "FQA_2462", "query": "What was Broadcom Inc.'s total stockholders' equity at the end of the most recent fiscal year?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_1748", "query": "What is the significance of reporting financial results on a constant currency basis?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_1022", "query": "What are the capital ratio requirements for AENB to be classified as 'well capitalized' under the FDIA?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_1085", "query": "How does competition in the payments industry affect American Express?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_6359", "query": "What was the percentage change in NYSE total cash handled volume from 2022 to 2023?", "positive_chunk_ids": ["ICE_2023_10K_chunk_0"]}
+{"query_id": "FQA_2976", "query": "What methodology does a company use to assess impairment of non-marketable equity securities of privately-held companies?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1743", "query": "What does constant currency revenue percentage change measure?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_6257", "query": "In Item 8, which schedule is referenced and where is it located in the Form 10-K?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4909", "query": "What initiatives are included in FedEx's approach to employee well-being and safety?", "positive_chunk_ids": ["FDX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3158", "query": "What was the total net charge-off amount for consumer loans and leases in 2023?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_1557", "query": "What are the included components in shipping costs that contribute to the cost of sales?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_3439", "query": "How is after-tax return on invested capital defined and calculated for fiscal 2019?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_468", "query": "What were the short-term and long-term credit ratings of the company as of June 30, 2023?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_3701", "query": "When was the first Chipotle restaurant opened and where?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_3625", "query": "What is the expected amount of incremental run-rate cost savings the company aims to achieve in addition to integration synergies?", "positive_chunk_ids": ["SCHW_2023_10K_chunk_0"]}
+{"query_id": "FQA_4823", "query": "What percentage of Etsy's Gross Merchandise Sales (GMS) in 2023 came from mobile purchases?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_994", "query": "What is the primary purpose of a company's internal control over financial reporting?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_6648", "query": "What led to the respiratory syncytial virus (RSV) adult vaccine program's discontinuation?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_6972", "query": "What was the total amount of the other non-cancellable contractual obligations at the end of 2023?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_1737", "query": "How much did Google Services revenues increase in 2023?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_3719", "query": "How much did Chipotle Mexican Grill's food and beverage revenue increase from 2022 to 2023?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_4052", "query": "Where can detailed information about commitments and contingencies be found in the 10-K report?", "positive_chunk_ids": ["CVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6219", "query": "Are the pages of IBM's Management’s Discussion and Analysis section in the 2023 Annual Report included in the report itself?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_1289", "query": "How does Starbucks recognize the interest and penalties related to income tax matters on their financial statements?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_414", "query": "How does the document clarify the company's approach to disclosing environmental legal proceedings?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_6758", "query": "What pages do the Consolidated Financial Statements and their accompanying notes appear on in a document?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3564", "query": "How is ME&T defined in the context of Caterpillar Inc.'s financial discussions?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_1887", "query": "What was the total amount of dividends declared by AbbVie Inc. in the year 2023?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_3946", "query": "How is Comcast's video revenue expected to change in 2023?", "positive_chunk_ids": ["CMCSA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2141", "query": "What does Note 11 in the Consolidated Financial Statements of an Annual Report on Form 10-K cover?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_4991", "query": "How does the company update its disclosure of contingencies in the financial statements?", "positive_chunk_ids": ["FDX_2023_10K_chunk_0"]}
+{"query_id": "FQA_2278", "query": "How much is the Company expected to receive from sublease income over the next five years and thereafter as of January 31, 2023?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_6827", "query": "What was the total dividends paid by Kroger in 2022?", "positive_chunk_ids": ["KR_2023_10K_chunk_0"]}
+{"query_id": "FQA_4745", "query": "How much did local currency revenue increase in Latin America in 2023 compared to 2022?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_2913", "query": "How many cores do the Ryzen Threadripper 7000 Series processors feature?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_5975", "query": "What was the recognized revenue from the Loyalty Program for the year ended December 31, 2023?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_888", "query": "What is the minimum amount of consolidated cash, cash equivalents, and U.S. Treasury Bills Berkshire aims to maintain?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_6311", "query": "What is the purpose of the company's third-party risk management program?", "positive_chunk_ids": ["ICE_2023_10K_chunk_0"]}
+{"query_id": "FQA_2586", "query": "What is the range of annual interest rates for the Company's bank credit facilities as of December 31, 2023, if amounts had been drawn?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_2706", "query": "How much did The Home Depot invest in capital expenditures in fiscal 202 with what intention?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_2454", "query": "Which auditing framework was applied for assessing the internal control over financial reporting for Broadcom Inc. as of October 29, 2023?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_1332", "query": "What were the main factors that negatively impacted NIKE's gross margin in fiscal 2023?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_6785", "query": "What is the date on the audit report for the Consolidated Financial Statements?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3136", "query": "How did the provision for credit losses change in Consumer Banking in 2023?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_1878", "query": "What was the impact on net periodic benefit cost and projected benefit obligation from a 50 basis point change in the assumed discount rate for AbbVie's plans as of December 31, 2023?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_871", "query": "What contributed to the $233 million increase in after-tax earnings of natural gas pipelines in 2022?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_1631", "query": "What accounting principles are followed for the assessment and recording of critical accounting estimates?", "positive_chunk_ids": ["NFLX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1951", "query": "What was the percentage increase in the consumer credit payments volume for Visa Inc. from 2021 to 2022?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_3129", "query": "What is the tangible equity ratio considered according to standard financial measures?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_3877", "query": "What were the reinstatement premiums related to PPD expenses for the year shown in the document?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_584", "query": "What total amount did the company recognize as impairment charges for property and equipment in 2023?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_1071", "query": "What are the primary methods American Express uses to manage foreign exchange risk?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_3329", "query": "Does the company have any significant legal issues disclosed in their report?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_2575", "query": "What were the unrealized losses on U.S. government and agency obligations for more than 12 months as of December 31, 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_5253", "query": "What does Item 8 refer to in a financial document?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_2213", "query": "How does seasonality affect the company's fourth-quarter billing?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_2990", "query": "What is basic earnings per share based on?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_2424", "query": "Where can one find a discussion on the risks associated with legal proceedings in the Annual Report?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_6142", "query": "How did the emergence of COVID-19 impact Humana's healthcare services in 2020 and 2021?", "positive_chunk_ids": ["HUM_2023_10K_chunk_1"]}
+{"query_id": "FQA_4190", "query": "What does Part IV Item 15 title 'Exhibits, Financial Statement Schedules' refer to?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3808", "query": "What competitive factors influence Chubb International's international operations?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_159", "query": "How did the total gross margin for Apple Inc. change from 2022 to 2023?", "positive_chunk_ids": ["AAPL_2023_10K_chunk_0"]}
+{"query_id": "FQA_656", "query": "What was the main cause for the increase in General and Administrative expenses in 2023?", "positive_chunk_ids": ["ABNB_2023_10K_chunk_0"]}
+{"query_id": "FQA_6031", "query": "What is the relationship between ITEM 3 and ITEM 8 in a financial document?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_6747", "query": "What is the purpose of Item 8 in the financial document?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_2820", "query": "What is the impact of new competitors on Walmart International?", "positive_chunk_ids": ["WMT_2023_10K_chunk_0"]}
+{"query_id": "FQA_4325", "query": "What new initiative did Dollar Tree announce in September 2021?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_792", "query": "What type of inputs are typically reflected in Level 3 assets and liabilities valuations?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_3115", "query": "What are the main business segments of Bank of America as mentioned in their management's discussion and analysis?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_1806", "query": "What is Epkinly used for and how is it administered?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_568", "query": "What was the impact of the changes in foreign exchange rates on cash and cash equivalents in 2022?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_5968", "query": "What are the objectives of the company's cash management policy?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_3398", "query": "What were the dividend amounts declared by AT&T for its preferred and common shares in December 2022 and December 2023?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_1628", "query": "What were the primary factors driving the $5,248 million increase in net cash provided by operating activities from 2022 to 2023?", "positive_chunk_ids": ["NFLX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3896", "query": "In which section of Form 10-K do financial statements and supplementary data begin?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_5514", "query": "What are the capital categories established under FDICIA for FDIC-insured banks?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6955", "query": "What led to the increase in Marina Bay Sands room revenues in 2023?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_4122", "query": "What is the focus of DaVita Venture Group?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_617", "query": "What are the trademark protections owned by the company?", "positive_chunk_ids": ["ABNB_2023_10K_chunk_0"]}
+{"query_id": "FQA_6938", "query": "How much did SCL pay in interest on their Senior Notes during the year ended December 31, 2023?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_5388", "query": "What was the impact on General Motors' EPS-diluted-adjusted in 2023 compared to 2022?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4822", "query": "What strategic focus does Etsy have for its marketplace?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5483", "query": "What contributed to the net other income (expense) in 2023?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_6430", "query": "What are the core values upheld by Intuit to guide their organizational culture?", "positive_chunk_ids": ["INTU_2023_10K_chunk_0"]}
+{"query_id": "FQA_6194", "query": "What were the book value and fair value of Gentiva Hospice’s corporate debt securities at December 31, 2023?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3468", "query": "How has the Adjusted Debt changed from 2019 to 2023?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_1323", "query": "Where can shareholders of NIKE, Inc. find copies of the company's financial filings?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_1170", "query": "What factors are considered in determining the estimated future warranty costs for connected fitness and Precor branded fitness products?", "positive_chunk_ids": ["PTON_2023_10K_chunk_0"]}
+{"query_id": "FQA_3035", "query": "When does Chevron's interest in the Lianzi Unitization Zone expire?", "positive_chunk_ids": ["CVX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5575", "query": "What framework did The Goldman Sachs Group, Inc. use to conduct its assessment of internal control over financial reporting in 2023?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_2000", "query": "What does GameStop Corp. offer to its customers?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_2173", "query": "How many theatres were operated in 2023 and what was the average number of screens per theatre?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_2592", "query": "How much did the company anticipate needing for pending acquisitions in the health care sector as of December 31, 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_938", "query": "What legal action did the State of Texas initiate against Meta Platforms, Inc. on February 14, 2022?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_1401", "query": "When was Palantir founded and for what initial purpose?", "positive_chunk_ids": ["PLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_262", "query": "What is the estimated timeline for stock options and RSUs to vest as stated by the company?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_4759", "query": "What is the maximum leverage ratio the company can elect to use in the context of material acquisitions, according to the Senior Credit Facilities?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_4418", "query": "What are the primary revenue sources for eBay?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_4045", "query": "What legal restrictions might apply to a pharmacy benefit manager's (PBM) practices regarding drug reimbursement and pricing?", "positive_chunk_ids": ["CVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_1729", "query": "What is included in the cost of revenues for Google?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_1957", "query": "What was the growth rate of Visa Inc.'s overall total nominal volume from 2021 to 2022?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_4444", "query": "What was the FX-Neutral Gross Merchandise Value (GMV) for the year ended December 31, 2021?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5887", "query": "Why does Hewlett Packard Enterprise exclude stock-based compensation expense from its non-GAAP financial measures?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_2867", "query": "How much did the Company's ownership in Massmart increase after buying out the noncontrolling interest shareholders in the fourth quarter of fiscal 2023?", "positive_chunk_ids": ["WMT_2023_10K_chunk_0"]}
+{"query_id": "FQA_2233", "query": "What was the increase in research and development expenses for fiscal year 2023 primarily due to?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4336", "query": "How many Canadian provinces did the company operate stores in as of January 28, 2023?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_4453", "query": "How much of the lease obligations is payable within 12 months as of December 31, 2023?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_6426", "query": "What technology does the Tax Advisor use and for what purpose in Intuit's offerings?", "positive_chunk_ids": ["INTU_2023_10K_chunk_0"]}
+{"query_id": "FQA_6783", "query": "What pages do the Consolidated Financial Statements and their accompanying Notes and reports appear on in the document?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3837", "query": "How does the reserving method for Global Reinsurance differ due to its use of reports from ceding companies?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_3155", "query": "What was the ratings outlook for Bank of America Corporation in 2023?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_2007", "query": "What is GameStop's trade-in program?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_1757", "query": "What was the main reason for the increase in OI&E, net from 2022 to 2023?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_4142", "query": "What are the consequences if the described company fails to comply with applicable laws and regulations?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_1266", "query": "What measures are taken to manage commodity price risk?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_6338", "query": "What changes did the FCA propose in its December 2023 consultation regarding the U.K. commodity derivatives framework?", "positive_chunk_ids": ["ICE_2023_10K_chunk_0"]}
+{"query_id": "FQA_1148", "query": "Why is stock-based compensation excluded from Adjusted EBITDA calculations?", "positive_chunk_ids": ["PTON_2023_10K_chunk_0"]}
+{"query_id": "FQA_6841", "query": "What was the total sales increase percentage for The Kroger Co. in 2022 compared to 2021?", "positive_chunk_ids": ["KR_2023_10K_chunk_0"]}
+{"query_id": "FQA_566", "query": "What were the critical accounting estimates based on?", "positive_chunk_ids": ["COST_2023_10K_chunk_1"]}
+{"query_id": "FQA_4161", "query": "What was the revenue growth for the integrated kidney care (IKC) business in 2023?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_5774", "query": "What is the likelihood of realizing deferred tax assets according to the company's belief?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_1310", "query": "What percentage of Nike Brand apparel production was accounted for by the factories in Vietnam, China, and Cambodia during fiscal 2023?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_759", "query": "How did Microsoft Cloud revenue change in fiscal year 2023 compared to fiscal year 2022?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_3989", "query": "What was the amount of Comcast's net deferred tax liability as of December 31, 2023?", "positive_chunk_ids": ["CMCSA_2023_10K_chunk_0"]}
+{"query_id": "FQA_4378", "query": "What adjustments did Dollar Tree report related to foreign currency translation for the fiscal years ending in January 2021 and January 2023?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_2790", "query": "How is the cash and cash equivalents balance calculated at the end of the year?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_4420", "query": "How did eBay's operating margin in 2023 compare to 2022?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_3288", "query": "What financial instruments does the Company use to minimize the variability in cash flows due to fluctuations in foreign currency exchange rates, commodity prices, or interest rates?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_193", "query": "What can make changing the company's operations in accordance with new or changed restrictions on international trade expensive, time-consuming, and disruptive to operations?", "positive_chunk_ids": ["AAPL_2023_10K_chunk_14"]}
+{"query_id": "FQA_6697", "query": "What was the dollar value of the cash dividends paid per share by Johnson & Johnson in 2023?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_1292", "query": "How are assets and liabilities that are measured at fair value on a nonrecurring basis identified in the financial statements?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3828", "query": "Under which item can Note 14 i) associated with Legal Proceedings be found?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_2176", "query": "What was the amount of additional stock-based compensation expense recognized due to the Type 3 modification in the year ended December 31, 2023?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_6084", "query": "What were the total assets of HP Inc. at the end of the fiscal year 2023?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_5489", "query": "What factors influence the determination of income tax provisions and related tax balances?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_5998", "query": "How is the impairment loss allocated among various assets in an asset group when indicators of impairment are found?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_4467", "query": "Are the consolidated financial statements and accompanying notes part of ITEM 8 in the Annual Report on Form 10-K?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5360", "query": "What are the three objectives of the capital allocation program referenced?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4395", "query": "How many preferred shares was the company authorized to issue as of January 28, 2023, and how many were actually issued?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_5356", "query": "What led to the increase in automotive and other cost of sales in 2023?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_6755", "query": "What firm provided the report on the Consolidated Financial Statements mentioned in a set of financial statements?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_363", "query": "How much did the brand and community costs increase by, and what was the main driver of this increase?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_2403", "query": "How does the company's infrastructure software solutions support customers?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_1030", "query": "How do privacy laws in the EU compare to those in the United States?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_4242", "query": "What was Delta Air Lines' effective tax rate in 2023?", "positive_chunk_ids": ["DAL_2023_10K_chunk_0"]}
+{"query_id": "FQA_4431", "query": "What is the purpose of hedging programs in relation to foreign currency volatility?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5496", "query": "How is diluted earnings per share calculated for Gilead?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_29", "query": "Who are NVIDIA's primary suppliers for semiconductor wafer production?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_873", "query": "By what percentage did the pre-tax earnings increase from 2021 to 2022 in the manufacturing sector?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_6335", "query": "What was the SRO's accrued amount as a receivable for CAT implementation expenses as of December 31, 2023?", "positive_chunk_ids": ["ICE_2023_10K_chunk_0"]}
+{"query_id": "FQA_465", "query": "What was the total amount of share repurchases made by the company in 2023?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_6625", "query": "How much did sales of STELARA amount to in the United States during fiscal 2023?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_5210", "query": "What does Item 8 refer to in financial reporting?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_5868", "query": "What financial metric for HPC & AI increased by 22.6% in fiscal 2023 compared to the previous year?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_3789", "query": "How much did Chipotle's accounts payable change from the beginning to the end of the year?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_5326", "query": "What are the projected years covered by the new CAFE and GHG emission standards proposed by NHTSA and the EPA?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_2189", "query": "What was the foreign currency transaction gain reported in 2023?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_3575", "query": "What does the elimination of payables between ME&T and Financial Products signify in their financial records?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_2934", "query": "How has the company addressed its responsibilities in connection with Superfund clean-up orders?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_3447", "query": "What drove the increase in capital expenditures from fiscal 2022 to fiscal 2023?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_767", "query": "What was the primary driver for the increase in server products and cloud services revenue in the Intelligent Cloud segment?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_5709", "query": "In which part of the Consolidated Financial Statements is information regarding legal proceedings specified?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5441", "query": "What challenges does a company face in maintaining its market share and pricing?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1938", "query": "What is the primary subject of Item 3 in the report?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_2544", "query": "What financial impact would a 1% increase in medical cost PMPM trend factors have on medical costs payable for the most recent two months as of December 31, 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_5188", "query": "What was Garmin Ltd.'s net income for the fiscal year ended December 30, 2023?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_4884", "query": "How did the discount rates for Depop and Elo7 change during their 2022 impairments analysis?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_2171", "query": "What was the year-on-year change in the net loss percentage before income taxes from 2022 to 2023?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_916", "query": "What legal basis for behavioral advertising on Facebook and Instagram in the EU, EEA, and Switzerland was announced to be changed and what was it changed to?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_4147", "query": "What percentage of DaVita's U.S. directors are women as of the end of 2023?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_6735", "query": "Who is the independent registered public accounting firm for this report and what is their PCAOB ID?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_6036", "query": "What strategic goals are set for the Printing segment at HP Inc.?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_4176", "query": "How much did the total ancillary services revenues increase by in 2023?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2195", "query": "What were the proceeds from the sale of investment in Saudi Cinema Company, LLC during 2023?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_520", "query": "What was the starting wage for all entry-level positions in the U.S. as of September 2023?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_765", "query": "What percentage growth did LinkedIn revenue experience?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_5602", "query": "Who was appointed as Hasbro's Chief Financial Officer in 2023, and what was her previous position?", "positive_chunk_ids": ["HAS_2023_10K_chunk_0"]}
+{"query_id": "FQA_4157", "query": "What areas of operation and anticipations are included in DaVita's forward-looking statements?", "positive_chunk_ids": ["DVA_2023_10K_chunk_1"]}
+{"query_id": "FQA_5013", "query": "What challenges does the European Union face with the implementation of the EU Green Deal and sustainable mobility action plans?", "positive_chunk_ids": ["F_2023_10K_chunk_0"]}
+{"query_id": "FQA_3742", "query": "What are the main changes introduced by ASU No. 2023-09 regarding income tax disclosures?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_4214", "query": "What aviation sustainability project did Delta Air Lines join in 2023 involving Boeing and NASA?", "positive_chunk_ids": ["DAL_2023_10K_chunk_0"]}
+{"query_id": "FQA_2593", "query": "What were the operating lease costs for the company for the year ended December 31, 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_3895", "query": "What section of the Form 10-K includes financial statements and supplementary data?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_1558", "query": "What strategies does the company use to mitigate increasing shipping costs?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_3337", "query": "What was the total operating revenue for AT&T Inc. in 2023?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_1083", "query": "What factors could affect the accuracy of forward-looking statements in financial disclosures?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_5843", "query": "What impact does Hewlett Packack Enterprise anticipate from currency exchange rates based on their recent financial statements?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_5636", "query": "What notable accolades has Hasbro received for its corporate citizenship?", "positive_chunk_ids": ["HAS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6105", "query": "How long has Humana participated in the Medicare program for private health plans?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4522", "query": "How much did Electronic Arts spend on share repurchases during the fiscal year ending March 31, 202ustomed_shantions 2023?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3332", "query": "What caused the increase in depreciation and amortization expenses in 2023 and what is expected for 2024?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_6549", "query": "What percentage did Iron Mountain's net income decrease from 2022 to 2023?", "positive_chunk_ids": ["IRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4783", "query": "What were the advertising costs for 2023, 2022, and 2021, according to the stated financial expenses?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5409", "query": "What is AmBisome used for?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_5766", "query": "What factors influence the determination of the discount rate for post-employment benefit plans?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_3289", "query": "What was the net impact of fair value hedging instruments on earnings in 2023?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_944", "query": "What is the percentage change in Family of Apps revenue from 2022 to 2023?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_4535", "query": "What are the restructuring targets of the company's Board of Directors as of 2023?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2034", "query": "How does referencing Note 16 help in understanding the legal proceedings discussed in Item 3 of a Form 10-K?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_6836", "query": "What was the percentage increase in identical sales excluding fuel in 2022?", "positive_chunk_ids": ["KR_2023_10K_chunk_0"]}
+{"query_id": "FQA_226", "query": "What strategies does the company plan to use to compete in the market for delivering self-driving technologies and other features?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_295", "query": "What financial outcomes result from currency exchange rate fluctuations according to the company's disclosure?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2579", "query": "What were the total assets at fair value on December 31, 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_4005", "query": "What methods does the Company use to encourage appropriate utilization of medical services?", "positive_chunk_ids": ["CVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_1721", "query": "What long-term trends have contributed to Alphabet's financial results?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_2022", "query": "What are some of the registered trademarks of GameStop?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_2255", "query": "By which auditing standards were the consolidated financial statements of Salesforce, Inc. audited?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_443", "query": "What contributed to the increase in gross margin in the recent fiscal year?", "positive_chunk_ids": ["PG_2023_10K_chunk_1"]}
+{"query_id": "FQA_6935", "query": "How much unrestricted and restricted cash did the entity in Mainland China hold as of December 31, 2023?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_3062", "query": "What do Financial Statements and Supplementary Data include in a financial report?", "positive_chunk_ids": ["CVX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5971", "query": "What methodologies are used to determine the fair value of an asset group when it is not considered recoverable?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_6604", "query": "When is the latest year that compound patent protection for DARZALEX extends to in Europe?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_756", "query": "What is the status of Item 6 in the document?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_5366", "query": "What was the total net automotive cash provided by investing activities in 2023?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_6895", "query": "How is the deferred revenue from gift cards recorded and recognized by the Company?", "positive_chunk_ids": ["KR_2023_10K_chunk_0"]}
+{"query_id": "FQA_2003", "query": "In which geographic segments does GameStop operate?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_563", "query": "How many warehouses were opened in 2023 and what is the plan for 2024?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_2535", "query": "What was the increase in UnitedHealthcare's Medicare Advantage individuals served from 2022 to 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_6614", "query": "What strategies are outlined in the Company's human capital management?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_6122", "query": "What typical reimbursement methods are used in the company's contracts with hospitals for inpatient and outpatient services?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3592", "query": "How are the undistributed profits of non-U.S. subsidiaries treated for tax purposes as of the end of 2023?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_2658", "query": "How much did the Vision franchise sales grow in 2023 compared to 2022?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_3277", "query": "What was the impact on income before taxes due to foreign currency exchange rate fluctuations in 2023, including hedging activities?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_1503", "query": "What is Amazon's approach to intellectual property?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_5884", "query": "How much did the GAAP cost of sales decrease in 2023 compared to 2022?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_1592", "query": "What were the present values of lease liabilities for operating and finance leases as of December 31, 2023?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_2268", "query": "What factors influence the Company's ability to establish Standalone Selling Prices (SSP) based on observable prices?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_982", "query": "What will the future effective tax rate depend on?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_5801", "query": "What types of businesses does HPE serve?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_842", "query": "What are the different types of programs offered by NetJets?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_3245", "query": "What triggers the requirement for management to record an impairment charge for investments?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_5152", "query": "What was the total foreign currency gain for the company in fiscal 2023?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_1614", "query": "How is Note 8 relevant to legal proceedings in financial statements detailed in an Annual Report on Form 10-K?", "positive_chunk_ids": ["NFLX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5125", "query": "What are the seasonal fluctuations in Garmin's net sales?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_5372", "query": "What amount of dividends to GM were included in the net cash used in financing activities for GM Financial for the year ended December 31, 2023?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_1575", "query": "How does the net cash from operating activities in 2023 compare to that of 2022?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_6597", "query": "Which item of the Annual Report includes the information required by Item 8 titled 'Financial Statements and Supplementary Data'?", "positive_chunk_ids": ["IRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_6797", "query": "Who prepared the report on the Consolidated Financial Statements for the document?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_542", "query": "How does the company's membership format affect its profitability?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_5107", "query": "What types of products are offered in Garmin's Fitness segment?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_3757", "query": "What was the effective income tax rate for the year ended December 31, 2023?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_2735", "query": "What are The Home Depot's strategies for increasing diversity, equity, and inclusion?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1252", "query": "What are the purposes of borrowings under the 2021 credit facility?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_6820", "query": "What did Carin L. Fike do at Kroger before becoming Vice President and Treasurer?", "positive_chunk_ids": ["KR_2023_10K_chunk_0"]}
+{"query_id": "FQA_4649", "query": "What factors contributed to the increase in gross margin in 2023?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_325", "query": "Where can more detailed information about the legal proceedings be found?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_1907", "query": "What partnerships does Visa seek to foster?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_5296", "query": "What type of content is discussed under Item 8 in documents?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_2723", "query": "What is the purpose of the EH&S policies at The Home Depot?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_2459", "query": "What is the total gross margin reported by Broadcom Inc. for the fiscal year ended October 29, 2023?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_3201", "query": "When was The Coca-Cola Company incorporated, and under which state's laws?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_317", "query": "What is the goal amount to be invested to advance equity in well-being by the end of 2025?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_1268", "query": "What impact does a 10% increase in underlying commodity prices have on the entity's net earnings?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_4600", "query": "When did Enphase begin production shipments of their branded EV chargers?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_1440", "query": "What was the increase in interest income for the year ended December 31, 2023 compared to 2022?", "positive_chunk_ids": ["PLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_6249", "query": "What is the range of pages that the Financial Statements and Supplementary Data cover in IBM's 2023 Annual Report?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_819", "query": "What percentage reduction in GHG emissions compared to 2005 levels is BHE aiming for by 2030?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_5377", "query": "What was the allowance for loan losses on GM Financial’s retail finance receivables portfolio at the end of 2023?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4723", "query": "What kind of services does Equifax provide?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1133", "query": "How is goodwill impairment assessed at Peloton?", "positive_chunk_ids": ["PTON_2023_10K_chunk_0"]}
+{"query_id": "FQA_827", "query": "What are the primary products and components manufactured by IMC?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_6162", "query": "How did the Insurance segment's benefit expense ratio change from 2022 to 2023?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_1208", "query": "Who is the chief executive officer of Starbucks as of March 2023 and what was his previous position?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5425", "query": "What strategy does the company use to protect its compounds, products, and technology?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_3472", "query": "What are the critical accounting estimates identified by management in the financial statements?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_1352", "query": "How much did footwear revenues grow on a currency-neutral basis in fiscal 2023 compared to fiscal 2022?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_6803", "query": "How many supermarkets does Kroger operate and what additional features do these include?", "positive_chunk_ids": ["KR_2023_10K_chunk_0"]}
+{"query_id": "FQA_5722", "query": "What was the impact of the Russia-Ukraine conflict on The Hershey Company's commodity prices in 2023?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_2674", "query": "What total proceeds did Kenvue raise through its initial public offering in May 2023?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_4972", "query": "What was the operating income of FedEx Ground segment in 2023?", "positive_chunk_ids": ["FDX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1273", "query": "What actions are taken when uncertain tax positions do not meet the threshold for recognition in financial statements?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1020", "query": "What are the conditions under which AENB is restricted from making dividend distributions to TRS without OCC approval?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_876", "query": "What were the main reasons for the increase in IMC's pre-tax earnings in 2023?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_4569", "query": "What was the net income of Electronic Arts Inc. for the fiscal year ended March 31, 2023?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_5519", "query": "What are the SEC's regulations for security-based swap dealers like Goldman Sachs' subsidiaries?", "positive_chunk_ids": ["GS_2023_10K_chunk_1"]}
+{"query_id": "FQA_3027", "query": "What is the expected first oil date for the project located in Area B of Block 0?", "positive_chunk_ids": ["CVX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5237", "query": "What section of the document discusses 'Financial Statements and Supplementary Data'?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6130", "query": "How long do associates typically remain employed at the company, and what does this indicate about the company's work environment?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4747", "query": "What was the change in operating margin from 2022 to 2023?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3301", "query": "What is the location of AT&T Inc.'s principal executive offices?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_4830", "query": "How much did the Marketplace revenue increase by percentage from 2022 to 2023?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5162", "query": "How much did net income increase by from the previous year to fiscal 2023?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_2088", "query": "What is the projected amortization expense for intangible assets for fiscal year 2023?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_1807", "query": "What condition is Ozurdex indicated to treat?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_898", "query": "What was the total cost and expenses reported by Berkshire Hathaway for the year ended December 31, 2023?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_616", "query": "Which hotel chains are identified as competitors in this report?", "positive_chunk_ids": ["ABNB_2023_10K_chunk_0"]}
+{"query_id": "FQA_895", "query": "What was the fair value of investments in fixed maturity securities at the end of 2023 after a hypothetical 100 basis point increase in interest rates?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_4934", "query": "What does FedEx Freight’s indexed fuel surcharge adjust based on?", "positive_chunk_ids": ["FDX_2023_10K_chunk_0"]}
+{"query_id": "FQA_885", "query": "How much did McLane's revenues decrease in 2023 compared to 2022?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_2991", "query": "How are diluted earnings per share calculated?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_4726", "query": "What was the operating revenue for the twelve months ended December 31, 2023?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3148", "query": "How did the Bank of America Corporation's capital ratios under Basel 3 compare at December 31, 2023 and 2022?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_1716", "query": "How does Google Cloud generate its revenues?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_4890", "query": "What was the net income for Etsy, Inc. in 2023 and how did it compare to the previous year?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_701", "query": "In which sections of the Form 10-K can forward-looking statements be found according to the text?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_2789", "query": "How did The Home Depot, Inc.'s basic earnings per share change from 2020 to 2022?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1634", "query": "Where are the consolidated financial statements and accompanying notes listed in the Annual Report on Form 10-K?", "positive_chunk_ids": ["NFLX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5907", "query": "What is the main purpose of the Hilton Honors program?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_2446", "query": "By how much did cash and cash equivalents increase from October 30, 2022, to October 29, 2023?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_5466", "query": "What percentage did Gilead's diluted earnings per share increase by in 2023 compared to the previous year?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_2283", "query": "What is the weighted-average remaining contractual life of options that are vested or expected to vest as of January 31, 2023?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_2772", "query": "By what amount did fiscal 2022 diluted earnings per share increase from fiscal 2021?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_4877", "query": "What was the total amount of capital expenditures for 2023, and how was it utilized?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_1673", "query": "What is the location of the consolidated financial statements and accompanying notes in the Annual Report on Form 10-K?", "positive_chunk_ids": ["NFLX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1992", "query": "What were the effective income tax rates for fiscal years 2023, 2022, and 2021, and how did specific tax events affect these rates?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_2174", "query": "What does Adjusted EBITDA exclude from its calculation according to the provided information?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_2573", "query": "What was the total amortized cost and fair value of debt securities as of December 31, 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_4285", "query": "How many aircraft did Delta Air Lines lease as of December 31, 2023, and how are these leases classified?", "positive_chunk_ids": ["DAL_2023_10K_chunk_0"]}
+{"query_id": "FQA_1042", "query": "What are some of the products and services offered by the globally integrated payments company?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_1307", "query": "What is the proportion of Nike Brand footwear manufactured in Vietnam, Indonesia, and China for fiscal 2023?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_2432", "query": "How much did the company pay in cash dividends during fiscal year 2023?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_385", "query": "What are the expected capital expenditures for the company in 2024?", "positive_chunk_ids": ["LULU_2023_10K_chunk_2"]}
+{"query_id": "FQA_912", "query": "What does GDPR require in case of a personal data breach, and what penalties does it impose for non-compliance?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_4143", "query": "How does the described company's U.S. dialysis business compete in the market?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_6618", "query": "How is the information for Item 3 on Legal Proceedings incorporated into the report?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_5703", "query": "How does The Hershey Company ensure flexibility and work-life balance for its employees?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_1765", "query": "What was the total amount remaining for share repurchases as of December 31, 2023?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_2177", "query": "How much did depreciation and amortization decrease by in the year ended December 31, 2023?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_4470", "query": "In which part and item of the Annual Report on Form 10-K can the consolidated financial statements be found?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_6561", "query": "What was the total growth investment capital expenditures in 2022?", "positive_chunk_ids": ["IRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_5569", "query": "What was the credit exposure of loans and lending commitments extended for securitization purposes in December 2023, and how did it change compared to December 2022?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6718", "query": "By when is JPMorgan Chase required to submit its next \"targeted\" resolution plan under the Dodd-Frank Act?", "positive_chunk_ids": ["JPM_2023_10K_chunk_0"]}
+{"query_id": "FQA_2336", "query": "What initiatives does the company adopt to improve employee safety?", "positive_chunk_ids": ["LLY_2023_10K_chunk_0"]}
+{"query_id": "FQA_1794", "query": "What potential consequences could result from intellectual property disputes in the U.S. International Trade Commission for the company?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_6075", "query": "How much does HP expect to contribute to non-U.S. pension plans in fiscal year 2024?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_355", "query": "What contributed to the decrease in the effective tax rate in 2023 compared to 2022?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_744", "query": "How long do Enterprise Agreements last and who are they designed for?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_45", "query": "What degree does Jen-Hsun Huang hold from Stanford University?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_4957", "query": "What was the total net of tax amount for the noncash impairment charge related to aircraft idling in the fourth quarter?", "positive_chunk_ids": ["FDX_2023_10K_chunk_0"]}
+{"query_id": "FQA_2279", "query": "What was the total carrying value of the company's debt as of January 31, 2023?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_2968", "query": "What was the net income of Advanced Micro Devices, Inc. for the fiscal year ended December 30, 2023?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_2280", "query": "How much in charges did the company incur in connection with its restructuring plan in fiscal 2023?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4680", "query": "How much net cash was used in investing activities by Enphase Energy, Inc. in 2023?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_2059", "query": "How have certain vendors been impacted in the supply chain financing market?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_5172", "query": "How much did Garmin Ltd.'s comprehensive income amount to for the fiscal year ended December 30, 2023?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_6176", "query": "What were the amounts of favorable medical claims reserve development for the years 2023, 2022, and 2021, and what primarily contributed to these developments?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4511", "query": "What does Item 3 of the Annual Report on Form 10-K direct the reader to for information on legal proceedings?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3562", "query": "What are the five significant items that are quantified separately in the non-GAAP financial measures for meaningful interpretation of the results?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_3461", "query": "What do commitments in tax credit equity investments involve according to the financial statements?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_5450", "query": "In which part of the Annual Report on Form 10-K are the legal proceedings described?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_2164", "query": "What approach is used to estimate the fair value of Domestic and International Theatres' reporting units?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_5290", "query": "What is Item 8 in regards to the document layout?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_3812", "query": "What is the process for using reinsurers not on the authorized list?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_58", "query": "What was the impact of COVID-19 on customer sales in China during fiscal year 2023, and what could happen if lockdowns return?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_4", "query": "What does NVIDIA's CUDA programming model enable?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_1072", "query": "What was the total notional amount of foreign currency derivative instruments outstanding as of December 31, 2023?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_2187", "query": "What factors contributed to the escalation in operating costs and expenses in 2023?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_6233", "query": "Where can the Financial Statement Schedule be found in the Form 10-K for IBM?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_2032", "query": "What method is used to present legal proceedings details in Item 3 of a Form 10-K?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_2491", "query": "How much has been indefinitely reinvested from accumulated foreign earnings as of fiscal year 2023?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_1338", "query": "What were the major factors contributing to the decrease in gross margin for NIKE in fiscal 2023?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_5269", "query": "What is the purpose of Item 8 in financial documents?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6299", "query": "What page in IBM’s 2023 Form 10-K is reserved for the Financial Statement Schedule?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_378", "query": "What was the total cash flow from operating activities in 2023 as stated in the summary?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_2372", "query": "How much money was used in asset acquisitions in 2023?", "positive_chunk_ids": ["LLY_2023_10K_chunk_0"]}
+{"query_id": "FQA_1469", "query": "How are intercompany balances and transactions treated in the consolidated financial statements of Palantir Technologies Inc.?", "positive_chunk_ids": ["PLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_4669", "query": "What is the warranty term for first and second generation microinverters?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_5714", "query": "What sections are included in the MD&A of Hershey's Annual Report?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_2879", "query": "What triggers the reassessment of probabilities for uncertain tax positions?", "positive_chunk_ids": ["WMT_2023_10K_chunk_0"]}
+{"query_id": "FQA_569", "query": "How many shares were repurchased in 2023 and at what average price?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_3766", "query": "What was the risk-free interest rate used in the Black-Scholes model for SOSARs granted in 2023?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_5551", "query": "What are the three principles of liquidity risk management at Goldman Sachs?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6244", "query": "What is Item 8 in IBM's 2023 Annual Report to Stockholders about?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3111", "query": "What activities does the Volcker Rule permit for banking entities despite restrictions on proprietary trading?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_2527", "query": "By what percentage did UnitedHealthcare's total revenues increase from 2022 to 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_3792", "query": "What are the required amendments in the ASU No. 2023-09 regarding income tax disclosures?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_4873", "query": "What was the net cash used in investing activities for the year ended December 31, 2023, and what were the primary components of this expenditure?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_3591", "query": "What is the primary purpose of using floating-to-fixed interest rate contracts according to the company's hedging strategy?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_5982", "query": "How does the company handle leasehold improvements in terms of depreciation?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_772", "query": "What is the expected financial impact of transfer pricing issues on the consolidated financial statements?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_2708", "query": "Who are the primary customer groups served by The Home Depot?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1425", "query": "What is contribution margin and why is it an important business measure?", "positive_chunk_ids": ["PLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_4589", "query": "What are the future minimum lease payments under operating leases as of March 31, 2023?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_1569", "query": "What was the total principal repayments of financing obligations for 2023?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_5076", "query": "Where in the report do the Financial Statements and accompanying details begin?", "positive_chunk_ids": ["F_2023_10K_chunk_0"]}
+{"query_id": "FQA_4601", "query": "What is the charging power range of Enphase-branded EV chargers?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_6154", "query": "What factors contributed to the increase in the 2023 benefit ratio compared to 2022?", "positive_chunk_ids": ["HUM_2023_10K_chunk_1"]}
+{"query_id": "FQA_764", "query": "How much did the Office Consumer products and cloud services revenue increase by?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_6298", "query": "Which part of IBM’s 2023 Annual Report covers the Financial Statements and Supplementary Data?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_5258", "query": "What is the title of Item 8 in a financial document?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_802", "query": "What are the responsibilities of Berkshire Hathaway's Board of Directors concerning leadership succession?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_5898", "query": "What was the total amount of pre-tax charges recorded by the company in fiscal 2022 due to operational disruptions in Russia and Belarus?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_2352", "query": "What contingencies may affect the continued approval of a pharmaceutical product after initial approval?", "positive_chunk_ids": ["LLY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5783", "query": "What assumptions and estimates does management make according to GAAP principles when preparing financial statements?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_581", "query": "What methodology does the company use to value its merchandise inventories in the United States and Canada?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_4650", "query": "What was the percentage increase in research and development expense for Enphase Energy in the year ended December 31, 2023?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_5663", "query": "What led to the reduced amortization of intangible assets in 2023?", "positive_chunk_ids": ["HAS_2023_10K_chunk_1"]}
+{"query_id": "FQA_5546", "query": "What type of insurance does GSBE provide through its voluntary deposit protection program?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_1830", "query": "What is required to support a PMA application in the medical device industry?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_594", "query": "What are the net deferred tax liabilities for the company at the end of 2023?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_79", "query": "What factors influenced the decrease in the effective tax rate for fiscal year 2023?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2406", "query": "How was the cash portion of the VMware acquisition funded?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_3271", "query": "When is the general implementation of the remaining global minimum tax rules under Pillar Two scheduled to occur?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_411", "query": "Where can information regarding certain legal proceedings with contingencies be found?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_947", "query": "What was the total revenue for the year 2023 and the percentage increase from 2022?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_1629", "query": "How did the cash position change for investments in 2023 compared to 2022?", "positive_chunk_ids": ["NFLX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3717", "query": "How is information on legal proceedings accessed through various sections of a financial statement?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_4718", "query": "What specific matters did the CFPB investigate concerning Equifax?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1463", "query": "How much cash and cash equivalents did Palantir Technologies Inc. have as of December 31, 2023?", "positive_chunk_ids": ["PLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_1522", "query": "What is Jamie S. Gorelick's current profession and where?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_94", "query": "How is the information about NVIDIA's equity compensation plans provided in the proxy statement?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_1801", "query": "What types of products does AbbVie's portfolio include?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_4665", "query": "What does critical accounting policy mean as defined by the SEC?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_6658", "query": "How much does the Company plan to pay per share for the cash dividend declared on January 2, 2024?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_5311", "query": "How does General[39 chars] Motors ensure quality in their dealership network?", "positive_chunk_ids": ["GM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3524", "query": "What was the primary driver for the increase in Caterpillar's sales and revenues in 2023?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_6081", "query": "What is the total cash outflow committed in purchase obligations related to inventory and other items, and when are these purchases due?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_6687", "query": "What actions did the company undertake in response to the Edley Class Action in New Jersey District Court in October 2022?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_53", "query": "What year was NVIDIA reincorporated in Delaware?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3030", "query": "What is the capacity of Angola LNG Limited’s onshore natural gas liquefaction plant in Soyo, Angola?", "positive_chunk_ids": ["CVX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1785", "query": "How much of Alphabet Inc.'s non-marketable equity securities were remeasured at fair value during the year ended December 31, 2023?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_3875", "query": "What was the net impact of catastrophe losses and related adjustments in 2021?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_1667", "query": "What type of financial statements are mentioned in Item 8 of an Annual Report on Form 10-K?", "positive_chunk_ids": ["NFLX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1926", "query": "In what ways does Visa utilize its network strategy to maintain a competitive edge?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_524", "query": "What significant roles did W. Craig Jelinek hold before becoming CEO?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_4246", "query": "What was the percentage decrease in third-party refinery sales for Delta Air Lines in 2023 compared to 2022?", "positive_chunk_ids": ["DAL_2023_10K_chunk_0"]}
+{"query_id": "FQA_6030", "query": "How is information about legal proceedings included in financial statements?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_991", "query": "What new financial program was announced on February 1, 2024, and what are its specifics?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_4993", "query": "How is the discount rate used in measuring projected benefit obligations developed?", "positive_chunk_ids": ["FDX_2023_10K_chunk_0"]}
+{"query_id": "FQA_4092", "query": "What results did the company's 2023 goodwill impairment test show for the Health Care Delivery reporting unit's goodwill?", "positive_chunk_ids": ["CVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_4969", "query": "What were the primary reasons for the decline in FedEx Express segment's operating income in 2023?", "positive_chunk_ids": ["FDX_2023_10K_chunk_0"]}
+{"query_id": "FQA_2310", "query": "What does orphan drug designation entail in the U.S.?", "positive_chunk_ids": ["LLY_2023_10K_chunk_0"]}
+{"query_id": "FQA_2288", "query": "What is the valuation allowance of the company as of January 31, 2023?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_1963", "query": "What is the balance of the U.S. litigation escrow account as of September 30, 2023?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_5091", "query": "Where does the report detail the Report of Independent Registered Public Accounting Firm and the Financial Statements?", "positive_chunk_ids": ["F_2023_10K_chunk_0"]}
+{"query_id": "FQA_3276", "query": "How much did the Company record in net foreign currency exchange losses in 2023?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_3633", "query": "What was the total amount of interest-earning assets in 2023?", "positive_chunk_ids": ["SCHW_2023_10K_chunk_0"]}
+{"query_id": "FQA_4225", "query": "What action did the U.S. Department of Justice take in relation to the antitrust allegations against Delta, American, United, and Southwest airlines?", "positive_chunk_ids": ["DAL_2023_10K_chunk_0"]}
+{"query_id": "FQA_5918", "query": "What are the typical initial terms of Hilton's management contracts?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_3981", "query": "How did noncash interest income net change from 2022 to 2023?", "positive_chunk_ids": ["CMCSA_2023_10K_chunk_0"]}
+{"query_id": "FQA_5505", "query": "What percentage of a global firm's workforce was based in strategic locations as of December 2023?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_5075", "query": "Under which item are the Exhibits and Financial Statement Schedules listed in the report?", "positive_chunk_ids": ["F_2023_10K_chunk_0"]}
+{"query_id": "FQA_1725", "query": "What are some of the international challenges and opportunities Alphabet is facing?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_2284", "query": "How does the company estimate the future stock price volatility for its stock options?", "positive_chunk_ids": ["CRM_2023_10K_chunk_0"]}
+{"query_id": "FQA_6276", "query": "Where can the Financial Statement Schedule be found in the Form 10-K?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_4888", "query": "What financial documents and data does Item 8 encompass in Etsy, Inc.'s filings?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_2502", "query": "Where are the details about 'Legal Matters' and 'Government Investigations, Audits and Reviews' located in the financial statements?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_645", "query": "What factors primarily drove the increase in Free Cash Flow for the year ended December 31, 2023?", "positive_chunk_ids": ["ABNB_2023_10K_chunk_0"]}
+{"query_id": "FQA_2018", "query": "What is GameStop's approach to building relationships with its vendors?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_1348", "query": "What factors primarily contributed to the 9% growth in apparel revenues on a currency-neutral basis?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_5490", "query": "What led to a $525 million accrual in Other current liabilities in the second quarter of 2023?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_5537", "query": "What were the net earnings to common shareholders for Goldman Sachs' Asset & Wealth Management in 2023?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_5747", "query": "What were the total cash contributions to the company's pension and post-retirement plans in 2023?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_2168", "query": "What was the percentage decrease in rental costs for the U.S. markets from 2022 to 2023?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_6320", "query": "What are some of the risks associated with owning and operating clearing houses?", "positive_chunk_ids": ["ICE_2023_10K_chunk_0"]}
+{"query_id": "FQA_499", "query": "What was the amount due for the 0.55% USD note as of June 30, 2023?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_2691", "query": "How did the loss on certain U.S. affiliates impact the Company's effective tax rate in the fiscal fourth quarter of 2021?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_3678", "query": "What accounting methods are utilized by Schwab when it does not have a controlling financial interest in an entity?", "positive_chunk_ids": ["SCHW_2023_10K_chunk_1"]}
+{"query_id": "FQA_4396", "query": "What was the total unrecognized compensation expense related to RSUs as of January 28, 2023, and over what period is it expected to be recognized?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_4177", "query": "What factors contributed to the increase in operating and adjusted operating income for U.S. dialysis in 2023?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_4472", "query": "In which document are the consolidated financial statements and accompanying notes included, as referred to in Item 8?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_3523", "query": "How much did Caterpillar's total sales and revenues increase by in 2023 compared to 2022?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_6487", "query": "What step-by-step process is used to determine how revenue should be recognized in contracts involving multiple products and services?", "positive_chunk_ids": ["INTU_2023_10K_chunk_1"]}
+{"query_id": "FQA_2061", "query": "On what factors does the level of credit support collateral depend?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_4421", "query": "How much did eBay's FX-Neutral net revenues increase in 2023 compared to 2022?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_3908", "query": "What kind of competition does Comcast face in the media industry?", "positive_chunk_ids": ["CMCSA_2023_10K_chunk_0"]}
+{"query_id": "FQA_482", "query": "What is Organic Sales Growth defined as in the text?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_2048", "query": "How much did interest expense and other net change from fiscal 2021 to fiscal 2022?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_4347", "query": "What were the reasons behind the reduction in net interest expense in fiscal 2022?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_5143", "query": "How does Garmin manage the costs of manufacturing its products?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_2943", "query": "What are the critical accounting estimates significantly impacting financial statement presentation?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_458", "query": "What was the range of before tax restructuring costs incurred by the company in fiscal 2023?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_257", "query": "What are the projected capital expenditures for the company in 2024?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2657", "query": "What was the reason for the increase in Abiomed sales in 2023?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_1975", "query": "What method does the company use to calculate realized gains or losses on the sale of securities?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_6945", "query": "What are the operating segments of the company in Macao?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_1720", "query": "What are Alphabet's primary business segments and how are they reported?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_2043", "query": "What innovations has GameStop introduced in the digital asset and NFT realms in 2022?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_5444", "query": "What is prohibited under false claims laws in the United States?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_4633", "query": "Are we currently aware of any material legal proceedings involving our company?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_4754", "query": "In which segments were acquisitions made in 2022?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_1582", "query": "What was Amazon's total non-operating income (expense) in 2023?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_1868", "query": "By what percentage did AbbVie's Skyrizi net revenues increase in 2023?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_6393", "query": "How are revenues from MERS database recognized?", "positive_chunk_ids": ["ICE_2023_10K_chunk_0"]}
+{"query_id": "FQA_839", "query": "What are the main raw materials used in the manufacturing of FOL's products?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_4366", "query": "Are goodwill and indefinite-lived intangible assets amortized?", "positive_chunk_ids": ["DLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_5245", "query": "What is the title illustration in the sample sentence?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_5437", "query": "What challenges does Gilead face in forecasting product sales?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_5199", "query": "What was the nominal par value per share of Garmin Ltd. in U.S. dollars as of December 30, 2023?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_4407", "query": "What does eBay's Authenticity Guarantee service offer?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_2571", "query": "What kinds of products and services does the Company provide under the AARP Program?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_5204", "query": "What kind of information does Item 8 cover in a financial document?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_342", "query": "How did the company manage increased wage rates in 2023 compared to 2022?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_5870", "query": "By how much did product revenue increase in fiscal 2023 for Intelligent Edge?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_552", "query": "What was the percentage increase in e-commerce sales comparable excluding the impact of changes in foreign-currency and gasoline prices in 2023?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_5634", "query": "Are the legal proceedings expected to significantly impact the company?", "positive_chunk_ids": ["HAS_2023_10K_chunk_0"]}
+{"query_id": "FQA_1559", "query": "Why is offering low prices to customers considered fundamental to the company's success?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_5707", "query": "Where can information about legal proceedings be found in the financial statements?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_4774", "query": "Why is the Asia Pacific reporting unit considered at risk of future goodwill impairment?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3622", "query": "What were the total client assets at Schwab at the end of 2022?", "positive_chunk_ids": ["SCHW_2023_10K_chunk_0"]}
+{"query_id": "FQA_3375", "query": "What was the total amount of tax incurred, collected, and remitted by AT&T in 2023?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_3773", "query": "At what discount can employees purchase stock under Chipotle's ESPP?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_479", "query": "What is the Royalty Rate for Gillette's indefinite-lived intangible asset as mentioned in the text?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_4597", "query": "What factors are considered in determining the Estimated Offering Period for revenue recognition of transactions with future update rights and/or online hosting?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_5899", "query": "How is the stock-based compensation expense determined for service-based and performance or market condition awards at Hewlett Packard Enterprise?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_5980", "query": "How are direct and indirect reimbursements recognized as revenue for managed and franchised properties?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_4506", "query": "What approaches does a company take to protect its intellectual property in the technology sector?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_5534", "query": "By what percentage did the S&P 500 Index increase in 2023 compared to the end of 2022?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6943", "query": "Where can discussions about 'Commitments and Contingencies' related to legal proceedings be found as mentioned in Item 3?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_5896", "query": "What was the change in cash and cash equivalents for Hewlett Packard Enterprise from the beginning to the end of the fiscal year 2023?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_3984", "query": "What is the balance at the end of the year for Comcast's Total Equity in 2023?", "positive_chunk_ids": ["CMCSA_2023_10K_chunk_0"]}
+{"query_id": "FQA_6991", "query": "How are advertising costs handled in accounting according to the noted business's financial statements for the specified years?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_2965", "query": "What was AMD's total comprehensive income for the year ended December 30, 2023?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1798", "query": "What conclusion did the auditor reach regarding Alphabet Inc.'s consolidated financial statements for the years ending 2022 and 2023?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_244", "query": "Are the settlement discussions regarding Tesla's waste segregation practices concluded?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_6491", "query": "How are gross realized gains and losses on available-for-sale debt securities accounted for in the consolidated statements of operations?", "positive_chunk_ids": ["INTU_2023_10K_chunk_0"]}
+{"query_id": "FQA_1877", "query": "How much were the provisions for Medicaid and Medicare Rebates, Managed Care Rebates, and Wholesaler Chargebacks in 2023?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_3506", "query": "What are the core development principles included in the leadership curriculums mentioned?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_694", "query": "How many Class A common stock shares were issued as a result of warrant exercises during the year ended December 31, 2023?", "positive_chunk_ids": ["ABNB_2023_10K_chunk_0"]}
+{"query_id": "FQA_913", "query": "What significant legal decision affected Meta Platforms Ireland's data transfer practices?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_1793", "query": "As of December 31, 2023, what is the total balance of acquisitions, foreign currency translation and other adjustments?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_5577", "query": "What were Goldman Sachs' total assets at the end of 2023?", "positive_chunk_ids": ["GS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6024", "query": "What keywords would you associate with Advanced Micro Devices, Inc.?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_5407", "query": "What is the significance of pre-exposure prophylaxis (PrEP) in Descovy?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_4491", "query": "How are the consolidated financial statements and accompanying notes organized in the Annual Report on Form 10-K?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_2038", "query": "What are considered forward-looking statements in GameStop's report?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_1866", "query": "What was the percentage decrease in total net revenues for AbbVie in 2023 compared to the previous year?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_2467", "query": "How are Level 3 assets measured under fair value hierarchy?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_5241", "query": "What page number does Item 8 start on in the document?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_26", "query": "How does NVIDIA encourage the development of software applications optimized for its platforms?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3", "query": "How does NVIDIA's platform strategy contribute to the markets it serves?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3761", "query": "What was the amount authorized for repurchasing shares of common stock as of December 31, 2023?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_4615", "query": "How does Enphase Energy, Inc. manage compliance with various international laws and regulations?", "positive_chunk_ids": ["ENPH_2023_10K_chunk_0"]}
+{"query_id": "FQA_5987", "query": "How much did the impairment losses total for the owned hotel assets, based on non-recurring fair value measurements in 2023?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_848", "query": "What types of legal actions do Berkshire and its subsidiaries typically face?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_3512", "query": "What type of information is discussed in Note 22 related to the company?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_2811", "query": "What types of financial services are offered through Walmart's fintech venture, ONE?", "positive_chunk_ids": ["WMT_2023_10K_chunk_0"]}
+{"query_id": "FQA_1828", "query": "What measures have the European Union adopted to regulate pharmaceutical pricing and trade?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_1044", "query": "What primarily drove the increase in service fees and other revenue associated with Card Member cross-currency spending?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_1824", "query": "What is the purpose of the 340B drug discount program established by the Veterans Health Care Act of 1992?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_2555", "query": "What impact would a 0.25% increase in completion factors have on the medical costs payable as of December 31, 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_2641", "query": "What percentage of Johnson & Johnson's 2023 sales were accounted for by products introduced within the past five years?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_4540", "query": "How did the net revenue for fiscal year 2023 compare to fiscal year 2022?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2046", "query": "By how much did Net sales change in fiscal 2022 compared to the previous fiscal year?", "positive_chunk_ids": ["GME_2023_10K_chunk_0"]}
+{"query_id": "FQA_2521", "query": "What was the increase in earnings from operations for Optum from 2022 to 2023?", "positive_chunk_ids": ["UNH_2023_10K_chunk_0"]}
+{"query_id": "FQA_5493", "query": "What was the total net income for Gilead Sciences, Inc. in 2023?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_200", "query": "What types of vehicles does the company design, develop, and manufacture?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_556", "query": "How did lower gasoline prices affect net sales in 2023?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_5400", "query": "What is the main goal of Gilead Sciences, Inc.?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1390", "query": "How does the company recognize stock-based compensation in its financial statements?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_2760", "query": "What was the total sales per retail square foot for the company in fiscal 2022?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_6156", "query": "How much did the Individual Medicare Advantage membership increase by in 2023?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3730", "query": "What is included in the total lease costs in financial statements?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_5474", "query": "By what percentage did royalty, contract, and other revenues decrease in 2023 compared to 2022?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_6297", "query": "What page of IBM's Form 10-K contains the Financial Statement Schedule?", "positive_chunk_ids": ["IBM_2023_10K_chunk_0"]}
+{"query_id": "FQA_3534", "query": "How much did Resource Industries' profit increase in 2023 and what were the main contributing factors?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_2147", "query": "What was the financial benefit received by AMC due to the modification of the 2022 PSU awards?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_5010", "query": "What agreement did Ford reach with California regarding vehicle GHG standards, and how do these standards compare with the federal standards rolled back in 2020?", "positive_chunk_ids": ["F_2023_10K_chunk_0"]}
+{"query_id": "FQA_64", "query": "What was the percentage impact on gross margin from inventory provisions and sales of previously written down items in fiscal year 2023?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3103", "query": "How many hours of training and development did Bank of America provide to its employees in 2023?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_5401", "query": "What types of diseases does Gilead Sciences, Inc. focus on treating?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_3244", "query": "What critical accounting policies and estimates are highlighted by Coca-Cola's management?", "positive_chunk_ids": ["KO_2023_10K_chunk_1"]}
+{"query_id": "FQA_5809", "query": "How does HPE's Board of Directors contribute to its human capital management strategy?", "positive_chunk_ids": ["HPE_2023_10K_chunk_0"]}
+{"query_id": "FQA_2748", "query": "How can the public access the company's financial and legal reports?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_6040", "query": "What impact do the geopolitical conflicts have on HP Inc.'s business and financial performance?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_1051", "query": "What does adjusted net interest income represent in financial reporting?", "positive_chunk_ids": ["AXP_2023_10K_chunk_0"]}
+{"query_id": "FQA_4262", "query": "How did Delta Air Lines adjust its fuel expenses for 2023?", "positive_chunk_ids": ["DAL_2023_10K_chunk_0"]}
+{"query_id": "FQA_2782", "query": "What was the total of future interest payments associated with the senior notes as of January 29, 2023?", "positive_chunk_ids": ["HD_2023_10K_chunk_0"]}
+{"query_id": "FQA_5420", "query": "What therapeutic areas are targeted by the strategic collaborations, in-licensing and acquisitions conducted by the company in 2023?", "positive_chunk_ids": ["GILD_2023_10K_chunk_0"]}
+{"query_id": "FQA_2834", "query": "What is the principal business experience of David M. Chojnowski before his current role as Senior Vice President and Controller?", "positive_chunk_ids": ["WMT_2023_10K_chunk_0"]}
+{"query_id": "FQA_1941", "query": "What does Note 20 pertain to in the context of the report?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_1555", "query": "What was the primary reason for the increase in shipping costs in 2023 compared to the previous year?", "positive_chunk_ids": ["AMZN_2023_10K_chunk_0"]}
+{"query_id": "FQA_4732", "query": "What was the effective tax rate for the year 2023?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_3299", "query": "What was the gross amount of unrecognized tax benefits as of December 31, 2023, and what would be the net benefit to the company if it prevailed on all uncertain tax positions?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_5752", "query": "What was the cash and cash equivalents balance of The Hershey Company at the end of 2023?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5198", "query": "What was the total amount of gross unrecognized tax benefits as of December 30, 2023?", "positive_chunk_ids": ["GRMN_2023_10K_chunk_0"]}
+{"query_id": "FQA_2154", "query": "What was the operating income for the year 2023?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_3979", "query": "What is the predominant strategy for monetizing the company's substantial majority of owned film and television content?", "positive_chunk_ids": ["CMCSA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3858", "query": "What percentage increase in net premiums written occurred in 2023 compared to 2022?", "positive_chunk_ids": ["CB_2023_10K_chunk_0"]}
+{"query_id": "FQA_203", "query": "What components are included in the automotive segment of the company's operations?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_837", "query": "What is the significant raw material used by MiTek and how does its supply impact the company?", "positive_chunk_ids": ["BRK-A_2023_10K_chunk_0"]}
+{"query_id": "FQA_5640", "query": "What was the total revenue of Hasbro's Consumer Products segment in 2022?", "positive_chunk_ids": ["HAS_2023_10K_chunk_0"]}
+{"query_id": "FQA_1331", "query": "How did NIKE's fiscal 2023 revenue compare to its fiscal 2022 revenue?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_3107", "query": "What new deposit insurance assessments did the FDIC adopt in October 2022?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_3577", "query": "What is the impact of eliminating intercompany assets between ME&T and Financial Products on the consolidated financial statements?", "positive_chunk_ids": ["CAT_2023_10K_chunk_0"]}
+{"query_id": "FQA_1842", "query": "What is the subject of Note 15 in the Consolidated Financial Statements?", "positive_chunk_ids": ["ABBV_2023_10K_chunk_0"]}
+{"query_id": "FQA_3116", "query": "What are some of the acronyms and abbreviations defined in the Bank of America's management discussion and analysis glossary?", "positive_chunk_ids": ["BAC_2023_10K_chunk_0"]}
+{"query_id": "FQA_3469", "query": "What were the effective tax rates for fiscal years 2023 and 2019?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_1304", "query": "In which markets does NIKE operate its Converse brand, and what products are included?", "positive_chunk_ids": ["NKE_2023_10K_chunk_0"]}
+{"query_id": "FQA_76", "query": "What was the primary cause for the increase in research and development expense in fiscal year 2023?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_6984", "query": "What does Note 6 in the consolidated financial statements of Las Vegas Sands Corp. refer to?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_1909", "query": "What are the primary use cases for prepaid cards as described by Visa?", "positive_chunk_ids": ["V_2023_10K_chunk_0"]}
+{"query_id": "FQA_5748", "query": "How much total cash dividends were paid by The Hershey Company on July 2, 2023?", "positive_chunk_ids": ["HSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_3380", "query": "What was the amount recorded for additional paid-in capital at the end of 2023?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_4565", "query": "What is the total debt repayment obligation mentioned in the financial outline?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3370", "query": "How much debt is AT&T Inc. expected to repay within one year as of December 31, 2023?", "positive_chunk_ids": ["T_2023_10K_chunk_0"]}
+{"query_id": "FQA_3274", "query": "What was the percentage increase in net cash provided by operating activities from 2022 to 2023?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_3748", "query": "What is the ending balance of the Chipotle Rewards liability for the year 2023?", "positive_chunk_ids": ["CMG_2023_10K_chunk_0"]}
+{"query_id": "FQA_172", "query": "How much of the Company's fixed-rate notes' principal amount was payable within 12 months as of September 30, 2023?", "positive_chunk_ids": ["AAPL_2023_10K_chunk_0"]}
+{"query_id": "FQA_6131", "query": "What is the average tenure of associates at the company as of December 31, 2023?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_13", "query": "What does the NVIDIA GPU Cloud registry offer?", "positive_chunk_ids": ["NVDA_2023_10K_chunk_0"]}
+{"query_id": "FQA_6819", "query": "In what year did Yael Cosset begin his current role as Senior Vice President and Chief Information Officer at Kroger?", "positive_chunk_ids": ["KR_2023_10K_chunk_0"]}
+{"query_id": "FQA_2338", "query": "How many employees did the company have at the end of 2023, and how many of these were engaged in research and development activities?", "positive_chunk_ids": ["LLY_2023_10K_chunk_0"]}
+{"query_id": "FQA_5629", "query": "What does COPPA restrict and how does it affect the company's operations?", "positive_chunk_ids": ["HAS_2023_10K_chunk_0"]}
+{"query_id": "FQA_313", "query": "In which year did lululemon's sales per square foot amount to $1,443?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_217", "query": "What program in California provides funding for behind-the-meter energy storage systems?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_4840", "query": "What do asset impairment charges consist of?", "positive_chunk_ids": ["ETSY_2023_10K_chunk_0"]}
+{"query_id": "FQA_573", "query": "What was the total net sales reported by Costco Wholesale Corporation for the 53-week period ended September 3, 2023?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_4544", "query": "How much did research and development expenses increase by in fiscal year 2023 compared to 2022?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3465", "query": "What was the net income reported for the fiscal year ending in August 2023?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_6434", "query": "How does Intuit support employee development and training?", "positive_chunk_ids": ["INTU_2023_10K_chunk_0"]}
+{"query_id": "FQA_1752", "query": "What was the operating income for Google Cloud in 2023?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_671", "query": "What method does the company use to account for income taxes?", "positive_chunk_ids": ["ABNB_2023_10K_chunk_0"]}
+{"query_id": "FQA_1647", "query": "In an Annual Report on Form 10-K, which item contains the consolidated financial statements and accompanying notes?", "positive_chunk_ids": ["NFLX_2023_10K_chunk_0"]}
+{"query_id": "FQA_4192", "query": "What purpose does the 'Index to Financial Statement Schedules' serve?", "positive_chunk_ids": ["DVA_2023_10K_chunk_0"]}
+{"query_id": "FQA_3459", "query": "What are the components of operating and finance lease obligations as defined in ASU 2016-02, Leases (Topic 842)?", "positive_chunk_ids": ["AZO_2023_10K_chunk_0"]}
+{"query_id": "FQA_2905", "query": "In what markets is AMD a leader in adaptive and embedded computing products?", "positive_chunk_ids": ["AMD_2023_10K_chunk_0"]}
+{"query_id": "FQA_1143", "query": "By how much did the impairment expense decrease in the fiscal year ended June 30, 2023 compared to the previous year?", "positive_chunk_ids": ["PTON_2023_10K_chunk_0"]}
+{"query_id": "FQA_1753", "query": "How much did the operating income for Google Cloud change from 2022 to 2023?", "positive_chunk_ids": ["GOOGL_2023_10K_chunk_0"]}
+{"query_id": "FQA_6622", "query": "How is Note 19 of the consolidated financial statements relevant to Item 3?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_361", "query": "What caused the decrease in the 2022 gross margin compared to 2021?", "positive_chunk_ids": ["LULU_2023_10K_chunk_1"]}
+{"query_id": "FQA_596", "query": "What specific actions were initiated by employees against Costco in the Nevarez v. Costco Wholesale Corp. case?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_6992", "query": "What were the terms of termination for the Contingent Lease Support Agreement between the Company and OpCo?", "positive_chunk_ids": ["LVS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6612", "query": "What legal measures could manufacturers face if they fail to comply with the Inflation Reduction Act's provisions?", "positive_chunk_ids": ["JNJ_2023_10K_chunk_0"]}
+{"query_id": "FQA_1462", "query": "What were the respective net earnings per share for Palantir Technologies Inc. common stockholders in the years 2023, 2022, and 2021?", "positive_chunk_ids": ["PLTR_2023_10K_chunk_0"]}
+{"query_id": "FQA_2480", "query": "What was the fair value measurement of cash equivalents at the reporting date using Level 1 on October 30, 2022?", "positive_chunk_ids": ["AVGO_2023_10K_chunk_0"]}
+{"query_id": "FQA_945", "query": "What major restructuring activities were completed by the end of 2023?", "positive_chunk_ids": ["META_2023_10K_chunk_0"]}
+{"query_id": "FQA_4788", "query": "What method of goodwil impairment testing did the Company adopt during the fourth quarter of 2023?", "positive_chunk_ids": ["EFX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5976", "query": "What amount of deferred revenues and liability for guest loyalty program was reported as of December 31, 2023?", "positive_chunk_ids": ["HLT_2023_10K_chunk_0"]}
+{"query_id": "FQA_712", "query": "How has Microsoft addressed racial injustice and inequity for Black and African American communities?", "positive_chunk_ids": ["MSFT_2023_10K_chunk_0"]}
+{"query_id": "FQA_4401", "query": "How does eBay Inc. support both buyers and sellers in its marketplace?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_1213", "query": "How does the Starbucks Experience enhance customer loyalty?", "positive_chunk_ids": ["SBUX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5654", "query": "What was the main reason for the entertainment segment operating losses in 2023 at the Company?", "positive_chunk_ids": ["HAS_2023_10K_chunk_0"]}
+{"query_id": "FQA_653", "query": "How much did the Product Development expenses increase by in 2023?", "positive_chunk_ids": ["ABNB_2023_10K_chunk_0"]}
+{"query_id": "FQA_6070", "query": "How did HP's cash and cash equivalents change from 2022 to 2023?", "positive_chunk_ids": ["HPQ_2023_10K_chunk_0"]}
+{"query_id": "FQA_4413", "query": "Where in an Annual Report on Form 10-K is 'Note 13 — Commitments and Contingencies — Litigation and Other Legal Matters' included?", "positive_chunk_ids": ["EBAY_2023_10K_chunk_0"]}
+{"query_id": "FQA_600", "query": "When was the Airbnb community founded?", "positive_chunk_ids": ["ABNB_2023_10K_chunk_0"]}
+{"query_id": "FQA_480", "query": "What is the primary method used by the company to manage interest rate exposure on financial instruments?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_474", "query": "How is the discount rate determined for the company's U.S. defined benefit pension and OPRB plans?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_416", "query": "What legislative act defines the term 'forward-looking statements' as used in the provided report?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_3267", "query": "How much did the interest expense increase in 2023 compared to 2022?", "positive_chunk_ids": ["KO_2023_10K_chunk_0"]}
+{"query_id": "FQA_4948", "query": "What are the three major sections included in FedEx's Management’s Discussion and Analysis of Financial Condition and Results of Operations for 2023?", "positive_chunk_ids": ["FDX_2023_10K_chunk_0"]}
+{"query_id": "FQA_5222", "query": "What is Item 8 related to in financial documents?", "positive_chunk_ids": ["GIS_2023_10K_chunk_0"]}
+{"query_id": "FQA_6190", "query": "What services does Humana Inc. provide to the Department of Defense?", "positive_chunk_ids": ["HUM_2023_10K_chunk_0"]}
+{"query_id": "FQA_496", "query": "What is the expected long-term rate of return for equities and bonds in Procter & Gamble's defined benefit retirement plans?", "positive_chunk_ids": ["PG_2023_10K_chunk_0"]}
+{"query_id": "FQA_6381", "query": "What financial impact would a 50% decrease in short-term interest rates have on the company's annual pre-tax earnings as of December 31, 2023?", "positive_chunk_ids": ["ICE_2023_10K_chunk_0"]}
+{"query_id": "FQA_4525", "query": "What proportion of Electronic Arts' total units sold in fiscal year 2023 were sold digitally?", "positive_chunk_ids": ["EA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2138", "query": "What position did Chris A. Cox hold at the Dial Corporation before joining AMC?", "positive_chunk_ids": ["AMC_2023_10K_chunk_0"]}
+{"query_id": "FQA_326", "query": "What does Note 21 pertain to in this report?", "positive_chunk_ids": ["LULU_2023_10K_chunk_0"]}
+{"query_id": "FQA_561", "query": "How has the change in foreign exchange rates affected cash and cash equivalents in 2023 and 2021?", "positive_chunk_ids": ["COST_2023_10K_chunk_0"]}
+{"query_id": "FQA_204", "query": "What types of energy storage products does the company manufacture?", "positive_chunk_ids": ["TSLA_2023_10K_chunk_0"]}
+{"query_id": "FQA_2862", "query": "What factors primarily drove the increase in net cash provided by operating activities for fiscal 2023?", "positive_chunk_ids": ["WMT_2023_10K_chunk_0"]}
+{"query_id": "FQA_5888", "query": "What specific charges are excluded from Hewlett Packard Enterprise's non-GAAP operating profit margin and why?", "positive_chunk_ids": ["HPE_2023_10K_chunk_1"]}
