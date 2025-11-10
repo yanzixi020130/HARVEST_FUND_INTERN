@@ -1,0 +1,8 @@
+{
+  "AvgSim": 0.36551635225337964,
+  "AvgMargin": 0.29745868456860386,
+  "NumQueries": 173,
+  "NegativesPerQueryMean": 3.121387283236994,
+  "ModelUsed": "models/baseline/bi_encoder",
+  "HardNegFile": "scheme_data/baseline/hard_negatives.jsonl"
+}

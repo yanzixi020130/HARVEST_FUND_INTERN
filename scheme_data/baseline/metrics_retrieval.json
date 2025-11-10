@@ -1,0 +1,11 @@
+{
+  "Precision@10": 0.5176890156918688,
+  "Recall@10": 5.176890156918687,
+  "F1@10": 0.9412527558033976,
+  "MRR@10": 0.7854827570590767,
+  "nDCG@10": 2.5238224109969605,
+  "TopK": 10,
+  "NumQueries": 701,
+  "ModelPath": "models/baseline/bi_encoder",
+  "EvalFile": "data_eval/eval_pairs.jsonl"
+}
